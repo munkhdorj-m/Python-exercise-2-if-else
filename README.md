@@ -1,5 +1,9 @@
 # Python IF/ELSE
 
+
+Python functions PPT: https://docs.google.com/presentation/d/1bdLSkGjM7uQfDCFkrxjbSVehAPPuRt6y/edit?usp=sharing&ouid=118175980541210638913&rtpof=true&sd=true 
+
+
 You have to return boolean types for true and false:
 
     return False
